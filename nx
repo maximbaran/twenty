@@ -4,10 +4,3 @@ command -v npm >/dev/null 2>&1 || { echo >&2 "Nx requires npm to be available. T
 path_to_root=$(dirname $BASH_SOURCE)
 node $path_to_root/.nx/nxw.js $@
 
-
-
-
-
-
-git config user.name "aasimghafor"
-git config user.email "aasimghafor@gmail.com"

@@ -10,4 +10,4 @@ node $path_to_root/.nx/nxw.js $@
 
 
 git config user.name "aasimghafor"
-git config user.email "your.email@example.com"
+git config user.email "aasimghafor@gmail.com"
